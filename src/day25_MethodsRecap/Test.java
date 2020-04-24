@@ -15,8 +15,8 @@ String result= Library.RemoveDuplicates(str);
 
 
         String str3 = "MMMNNNJJJJJIIIIUUUUUUYYYYYYYY";
-        String result3 =     Library.FrequencyOfChars(str3);
-        System.out.println(result3);
+        //String result3 =     Library.FrequencyOfChars(str3);
+        //System.out.println(result3);
 
     }
 }

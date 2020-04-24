@@ -42,7 +42,7 @@ public class Library {
             // we need to make that we are not counting the same index over again
         }
         return count;
-        public static String FrequencyOfChars(String str){
+        /*public static String FrequencyOfChars(String str){
             String NonDup =  Library.RemoveDuplicates(str)  ;             //ABC
             String result = ""; //coantisn the frequency of chars
             for(int i =0; i < NonDup.length();i++){
@@ -51,10 +51,12 @@ public class Library {
                 result += ch+num;
             }
             return result;
+
+         */
         }
 
     }
-}
+
 
 
 
